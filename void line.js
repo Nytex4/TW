@@ -1,0 +1,1 @@
+[{"name":"VOID/ICU Boundary","mapColor":"#951388","mapWidth":"3px","drawOnMini":true,"miniColor":"#951392","miniWidth":"2px","lines":[[[[500,506],[594,600],[500,506]]]],"labelsColor":"#00ff00","labelsFontSize":"bold 16px","labelsRoot":"center","labels":[],"selected":false,"show":true}]
